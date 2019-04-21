@@ -1,2 +1,0 @@
-# CoLab
-CoLab JypetorNotebook
